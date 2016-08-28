@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+What did I do In the Past week?
+This past week was the first week of class so I spent a lot of time familiarizing myself and stepping up the basics. I installed python and ran a few python programs on my machine because I had no prior experience with the language. I also got started with using the other tools listed on the Software Engineering site.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Whats in my way?
+Right now I’m still trying to get fully aquatinted with some of the tools. Most notably, Docker, I installed it and ran it but I’m still kind of confused how exactly to use it. I know that in class Professor Downing explained the use of Docker but I am trine figure out how exactly to load the image onto Docker. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+What I plan to do next Week?
+By this time next week I hope to have good handle on all the tools, as they are the back bone for working on projects in this class. I also hope to have learned many new things in class that will overall improve my software engineering skill.
+
+So far I have really liked this class because of Professor Downing’s teaching style. The way he shows us relevant examples and thoroughly explains them leads to a very efficient learning process. I think it helps keep me engaged more than the traditional lecture styles that must professors use.At first I was a little bit scared about the quiz at the start of every class. But my tip of the week is to review the prior examples on the cs 373 page and make sure you fully synthesize them, that way the quizzes will be easy and you will end up getting a lot out of this class.
