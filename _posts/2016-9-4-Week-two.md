@@ -1,3 +1,7 @@
+---
+layout: post
+title: Week 2
+---
 
 What did I do In the Past week?
 This past week was a much busier week for me.The first project got assigned so I spent about 5 hours on working on that. I have a “dumb” solution that still needs a good amount of work. I also spent time on understanding the tools we will use in this class more. 
