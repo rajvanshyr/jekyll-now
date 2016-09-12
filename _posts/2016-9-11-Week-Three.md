@@ -1,4 +1,4 @@
-layout	title
-post
-Week 2
-
+---
+layout: post
+title: Week 3
+---
