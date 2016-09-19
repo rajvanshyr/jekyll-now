@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 3
+title: Week 4
 ---
 What did I do In the Past week?
 This past week was a very busy week for me. I spent many hours working on the Netflix project. We have now minimized the RMSE to below 1 and have started writing tests.  
